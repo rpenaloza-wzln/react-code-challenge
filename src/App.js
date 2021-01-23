@@ -6,7 +6,7 @@ import { mockPokemonData } from "./mock/pokeData";
 export default function App() {
   return (
     <div className="App">
-      <h1>React Code Challenge</h1>
+      <h1>React Code Challenge </h1>
       <PokeCard poekmonInfo={mockPokemonData} />
     </div>
   );
