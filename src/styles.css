@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.PokeCard {
+  width: 310px;
+  border: 1px solid #dcdcdc;
+  box-shadow: 6px 6px 1px 0px #ebebeb;
+  padding-right: 0.2em;
+  padding-left: 0.7em;
+  padding-bottom: 0.6em;
+}
+
+.infobox {
+  width: 283px;
+  border: 1px solid #dcdcdc;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+/* Image */
+.PokeSprite {
+  border: 1px solid #dcdcdc;
+  padding-right: 0.2em;
+  padding-left: 0.7em;
+  padding-bottom: 0.8em;
+}
+span {
+  font-weight: bold;
+}
